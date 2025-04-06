@@ -17,3 +17,4 @@ jobs:
         with:
           feed_list: "https://404-peace-not-found.ghost.io/rss/"
           max_post_count: 5
+          template: "📌 [{{title}}]({{url}})"
