@@ -32,5 +32,4 @@ P.S. When I’m not coding, you’ll probably find me dancing to K-pop choreogra
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 📌 [{{title}}]({{url}})- 📌 [{{title}}]({{url}})- 📌 [{{title}}]({{url}})- 📌 [{{title}}]({{url}})- 📌 [{{title}}]({{url}})<!-- BLOG-POST-LIST:END -->
