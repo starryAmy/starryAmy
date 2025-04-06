@@ -30,6 +30,32 @@ I'm always eager to learn new skills and explore different areas of tech. Along 
 
 P.S. When I’m not coding, you’ll probably find me dancing to K-pop choreography 💃
 
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Stimulus-2E2E2E?style=for-the-badge&logo=stimulus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Turbo-000000?style=for-the-badge&logo=hotwire&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+</p>
+
+## 📌 Currently I'm up to...
+
+💼 Working on a freelance project for a company  
+🗾 **Actively job hunting in Japan** — open to engineering and tech roles! Feel free to reach out if you know of any great opportunities!
+
+
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START --><a href="https://404-peace-not-found.ghost.io/leetcode-debou/">📌 [Leetcode] JS 30 Debounce</a><br/><a href="https://404-peace-not-found.ghost.io/leetcode-js-30-cache-with-time-limit/">📌 [Leetcode] JS 30 Cache With Time Limit</a><br/><a href="https://404-peace-not-found.ghost.io/leetcode-js-30-promise-time-limit/">📌 [Leetcode] JS 30 Promise Time Limit</a><br/><a href="https://404-peace-not-found.ghost.io/leetcode-js-30-interval-cancellation/">📌 [Leetcode] JS 30 Interval Cancellation</a><br/><a href="https://404-peace-not-found.ghost.io/leetcode-js-30-sleep/">📌 [Leetcode] JS 30 Sleep</a><br/><!-- BLOG-POST-LIST:END -->
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=starryAmy&theme=ocean-gradient" alt="GitHub Streak" />
+</p>
