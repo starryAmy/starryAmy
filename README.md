@@ -33,4 +33,9 @@ P.S. When I’m not coding, you’ll probably find me dancing to K-pop choreogra
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Leetcode] JS 30 Debounce](https://404-peace-not-found.ghost.io/leetcode-debou/)
+- [[Leetcode] JS 30 Cache With Time Limit](https://404-peace-not-found.ghost.io/leetcode-js-30-cache-with-time-limit/)
+- [[Leetcode] JS 30 Promise Time Limit](https://404-peace-not-found.ghost.io/leetcode-js-30-promise-time-limit/)
+- [[Leetcode] JS 30 Interval Cancellation](https://404-peace-not-found.ghost.io/leetcode-js-30-interval-cancellation/)
+- [[Leetcode] JS 30 Sleep](https://404-peace-not-found.ghost.io/leetcode-js-30-sleep/)
 <!-- BLOG-POST-LIST:END -->
