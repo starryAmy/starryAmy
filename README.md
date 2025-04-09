@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/zi_ying.h?igsh=aWo1enM0djQxd2ty&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://your-portfolio-site.com" target="_blank">
+  <a href="https://starryamy.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
