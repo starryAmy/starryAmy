@@ -46,7 +46,7 @@ P.S. When I’m not coding, you’ll probably find me dancing to K-pop choreogra
 
 ## 📌 Currently I'm up to...
 
-💼 Working on a freelance project for a company  
+💼 Working on a freelance project for a company about organzing events
 🗾 **Actively job hunting in Japan** — open to engineering and tech roles! Feel free to reach out if you know of any great opportunities!
 
 
