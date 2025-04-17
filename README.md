@@ -52,7 +52,7 @@ P.S. When I’m not coding, you’ll probably find me dancing to K-pop choreogra
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START --><a href="https://404-peace-not-found.ghost.io/js-intersection-observer-api/">📌 [JS] Intersection Observer API</a><br/><a href="https://404-peace-not-found.ghost.io/leetcode-debou/">📌 [Leetcode] JS 30 Debounce</a><br/><a href="https://404-peace-not-found.ghost.io/leetcode-js-30-cache-with-time-limit/">📌 [Leetcode] JS 30 Cache With Time Limit</a><br/><a href="https://404-peace-not-found.ghost.io/leetcode-js-30-promise-time-limit/">📌 [Leetcode] JS 30 Promise Time Limit</a><br/><a href="https://404-peace-not-found.ghost.io/leetcode-js-30-interval-cancellation/">📌 [Leetcode] JS 30 Interval Cancellation</a><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><a href="https://404-peace-not-found.ghost.io/js-export-v-s-import-modules/">📌 [JS] Export v.s. Import Modules</a><br/><a href="https://404-peace-not-found.ghost.io/mind-check-ins-my-first-talk-with-recruiter-in-japan/">📌 [Mind Check-ins] My first talk with recruiter in Japan</a><br/><a href="https://404-peace-not-found.ghost.io/js-intersection-observer-api/">📌 [JS] Intersection Observer API</a><br/><a href="https://404-peace-not-found.ghost.io/leetcode-debou/">📌 [Leetcode] JS 30 Debounce</a><br/><a href="https://404-peace-not-found.ghost.io/leetcode-js-30-cache-with-time-limit/">📌 [Leetcode] JS 30 Cache With Time Limit</a><br/><!-- BLOG-POST-LIST:END -->
 
 ## 🔥 GitHub Streak
 
