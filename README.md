@@ -26,7 +26,7 @@ Hello there, I'm Amy Huang👋 — a former investment banker who transitioned i
 
 To pursue this interest, I moved to Japan and graduated from the [Le Wagon](https://www.lewagon.com/) coding bootcamp, where I built full-stack web applications using **Ruby on Rails**, **JavaScript**, and **front-end technologies**. I’m now excited to continue building products that make a positive impact in the world. ✨
 
-I'm always eager to learn new skills and explore different areas of tech. Along the way, I even built my own [blog](https://404-peace-not-found.ghost.io/) to document everything I've learned on this exciting journey. Feel free to reach out if you'd like to connect or just have a chat — I’d love to hear from you!
+I'm always eager to learn new skills and explore different areas of tech. Along the way, **I even built my own [blog](https://404-peace-not-found.ghost.io/) to document everything** I've learned on this exciting journey. Feel free to reach out if you'd like to connect or just have a chat — I’d love to hear from you!
 
 P.S. When I’m not coding, you’ll probably find me dancing to K-pop choreography! 💃
 
