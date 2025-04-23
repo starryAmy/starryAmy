@@ -59,3 +59,7 @@ P.S. When I’m not coding, you’ll probably find me dancing to K-pop choreogra
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=starryAmy&theme=ocean-gradient" alt="GitHub Streak" />
 </p>
+
+## 🔥 This Week I Spent My Time on...
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
