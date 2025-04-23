@@ -63,6 +63,6 @@ P.S. When I’m not coding, you’ll probably find me dancing to K-pop choreogra
 ## 🔥 This Week I Spent My Time on...
 <!--START_SECTION:waka-->
 
-Still collceting data...please check it out later!
+Still collecting data...please check it out later!
 
 <!--END_SECTION:waka-->
