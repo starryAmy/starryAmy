@@ -63,8 +63,6 @@ P.S. When I’m not coding, you’ll probably find me dancing to K-pop choreogra
 ## 🔥 This Week I Spent My Time on...
 <!--START_SECTION:waka-->
 
-JavaScript   10 hrs 32 mins  ████████████████░░░░░░  75.2 %
-HTML          2 hrs 10 mins  ████░░░░░░░░░░░░░░░░░░  15.4 %
-CSS           1 hr  5 mins   ██░░░░░░░░░░░░░░░░░░░░   7.8 %
+Still collceting data...please check it out later!
 
 <!--END_SECTION:waka-->
