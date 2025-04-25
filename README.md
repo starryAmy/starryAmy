@@ -64,8 +64,11 @@ P.S. When I’m not coding, you’ll probably find me dancing to K-pop choreogra
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   5 mins          ████████████████████████▒   97.28 %
-HTML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Python       32 mins         ███████████████████░░░░░░   76.49 %
+JavaScript   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+JSON         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Other        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
