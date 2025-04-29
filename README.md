@@ -42,6 +42,8 @@ P.S. When I’m not coding, you’ll probably find me dancing to K-pop choreogra
   <img src="https://img.shields.io/badge/Turbo-000000?style=for-the-badge&logo=hotwire&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
 </p>
 
 ## 📌 Currently I'm up to...
