@@ -67,11 +67,11 @@ P.S. When I’m not coding, you’ll probably find me dancing to K-pop choreogra
 <!--START_SECTION:waka-->
 
 ```txt
-Python       5 hrs 29 mins   █████████████████████░░░░   83.39 %
+Python       4 hrs 56 mins   ██████████████████▓░░░░░░   75.07 %
+JavaScript   38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
 HTML         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
-JSON         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 Text         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
