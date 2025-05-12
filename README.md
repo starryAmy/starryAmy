@@ -48,7 +48,7 @@ P.S. When I’m not coding, you’ll probably find me playing badminton and danc
 
 ## 📌 Currently I'm up to...
 
-💼 Working on a freelance project for a company about organzing events! <br>
+💼 Working on a freelance project for a company about hosting events! <br>
 🗾 **Actively job hunting in Japan** — open to engineering and tech roles! Feel free to reach out if you know of any great opportunities!
 
 
