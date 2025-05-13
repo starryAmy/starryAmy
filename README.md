@@ -22,7 +22,7 @@
   </a>
 </p>
 
-Hello there, I'm Amy Huang👋 — a former investment banker who transitioned into tech after three years in finance. **I'm deeply passionate about both finance and technology**, and especially fascinated by how they intersect to shape the future.
+Hello there, I'm Amy Huang👋 — a former investment banker who transitioned into tech after three years in finance. **I'm deeply passionate about both finance and technology**, and especially fascinated by how they intersect to shape the future!
 
 To pursue this interest, I moved to Japan and graduated from the [Le Wagon](https://www.lewagon.com/) coding bootcamp, where I built full-stack web applications using **Ruby on Rails**, **JavaScript**, and **front-end technologies**. I’m now excited to continue building products that make a positive impact in the world. ✨
 
