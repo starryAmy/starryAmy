@@ -60,7 +60,7 @@ P.S. When I’m not coding, you’ll probably find me playing badminton and danc
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=starryAmy&theme=ocean-gradient" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=starryAmy&theme=ocean-gradient" alt="GitHub Streak" />
 </p>
 
 ## 🔥 This Week I Spent Time on...
