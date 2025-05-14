@@ -67,9 +67,7 @@ P.S. When I’m not coding, you’ll probably find me playing badminton and danc
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 hrs 58 mins   ████████████████████████▒   96.80 %
-CSS          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+JavaScript   3 hrs 55 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
