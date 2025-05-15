@@ -67,7 +67,11 @@ P.S. When I’m not coding, you’ll probably find me playing badminton and danc
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 55 mins   █████████████████████████   100.00 %
+JavaScript   3 hrs 57 mins   ███████████████▒░░░░░░░░░   60.88 %
+TypeScript   2 hrs 30 mins   █████████▓░░░░░░░░░░░░░░░   38.53 %
+TSConfig     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
