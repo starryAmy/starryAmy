@@ -63,15 +63,3 @@ P.S. When I’m not coding, you’ll probably find me playing badminton and danc
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=starryAmy&theme=ocean-gradient" alt="GitHub Streak" />
 </p>
 
-## 🔥 This Week I Spent Time on...
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   3 hrs 22 mins   ███████████▒░░░░░░░░░░░░░   45.63 %
-TypeScript   3 hrs 20 mins   ███████████▒░░░░░░░░░░░░░   45.13 %
-SQL          28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-```
-
-<!--END_SECTION:waka-->
