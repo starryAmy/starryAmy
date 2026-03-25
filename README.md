@@ -17,18 +17,14 @@
   <a href="https://www.instagram.com/zi_ying.h?igsh=aWo1enM0djQxd2ty&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://starryamy.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-  </a>
 </p>
 
-Hello there, I'm Amy Huang👋 — a former investment banker who transitioned into tech after three years in finance. **I'm deeply passionate about both finance and technology**, and especially fascinated by how they intersect to shape the future!
+Hello there, I'm Amy Huang 👋 Here are some fun facts about me:
 
-To pursue this interest, I moved to Japan and graduated from the [Le Wagon](https://www.lewagon.com/) coding bootcamp, where I built full-stack web applications using **Ruby on Rails**, **JavaScript**, and **front-end technologies**. I’m now excited to continue building products that make a positive impact in the world. ✨
-
-I'm always eager to learn new skills and explore different areas of tech. Along the way, **I even built my own [blog](https://404-peace-not-found.ghost.io/) to document my life and everything** I've learned on this exciting journey. Feel free to reach out if you'd like to connect or just have a chat — I’d love to hear from you!
-
-P.S. When I’m not coding, you’ll probably find me playing badminton and dancing to K-pop choreography! 💃
+🏦 Former investment banker who moved to Japan and pivoted into software engineering — chasing a little more excitement in life!<br>
+💻 Day-to-day work revolves around Python, JavaScript/React/Typescript, and SQL<br>
+✍️ I write on my blog to stay grounded — a little reminder of who I am and what I've learned along the way<br>
+🏸 When I'm not coding, you'll probably find me playing badminton or dancing to K-pop choreography! 💃<br>
 
 ## 🛠 Tech Stack
 
@@ -46,20 +42,8 @@ P.S. When I’m not coding, you’ll probably find me playing badminton and danc
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
 </p>
 
-## 📌 Currently I'm up to...
-
-💼 Working on a freelance project for a company about hosting events! <br>
-🗾 **Actively job hunting in Japan** — open to engineering and tech roles! Feel free to reach out if you know of any great opportunities!
-
-
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START --><a href="https://404-peace-not-found.ghost.io/js-how-i-fixed-reacts-annoying-load-flickers/">📌 [JS] How I Fixed React’s Annoying Load Flickers</a> - <i>Sun Apr 27 2025 12:00 AM</i><br/><a href="https://404-peace-not-found.ghost.io/js-why-my-react-component-is-re-rendering-forever/">📌 [JS] Why My React Component Is Re-Rendering Forever</a> - <i>Sat Apr 26 2025 12:00 AM</i><br/><a href="https://404-peace-not-found.ghost.io/js-update-state-based-on-old-state-in-react/">📌 [JS] Update State Based on Old State in React</a> - <i>Fri Apr 25 2025 12:00 AM</i><br/><a href="https://404-peace-not-found.ghost.io/js-dynamically-set-properties-in-object/">📌 [JS] Dynamically Set Properties in Object</a> - <i>Wed Apr 23 2025 4:00 PM</i><br/><a href="https://404-peace-not-found.ghost.io/mind-checkins-what-ive-learned-rebuilding-a-react-game/">📌 [Mind-Checkins] What I’ve Learned Rebuilding a React Game</a> - <i>Wed Apr 23 2025 2:15 PM</i><br/><!-- BLOG-POST-LIST:END --><br/>
 [View More Posts About My Life and Coding...](https://404-peace-not-found.ghost.io/)
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=starryAmy&theme=ocean-gradient" alt="GitHub Streak" />
-</p>
 
