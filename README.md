@@ -41,7 +41,7 @@ Hello there, I'm Amy Huang 👋 Here are some fun facts about me:
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START --><a href="https://amyhuang-blog.com/zh/posts/0401-fastapi%E5%BE%8C%E7%AB%AF%E8%B3%87%E6%96%99%E6%B5%81/">📌 FastAPI後端資料流是如何運作的</a> - <i>Wed Apr 01 2026 12:00 AM</i><br/><a href="https://amyhuang-blog.com/zh/posts/0330-%E7%82%BA%E4%BD%95%E6%88%91%E6%83%B3%E8%A6%81%E7%B6%93%E7%87%9F%E9%80%99%E5%80%8B%E9%83%A8%E8%90%BD%E6%A0%BC/">📌 為何我想要經營這個部落格？</a> - <i>Mon Mar 30 2026 12:00 AM</i><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><a href="https://amyhuang-blog.com/en/posts/0401-how-fastapi-backend-data-flow-works/">📌 How FastAPI Backend Data Flow Works</a> - <i>Wed Apr 01 2026 12:00 AM</i><br/><a href="https://amyhuang-blog.com/en/posts/0330-why-i-decided-to-start-this-blog/">📌 Why I Decided to Start This Blog</a> - <i>Mon Mar 30 2026 12:00 AM</i><br/><!-- BLOG-POST-LIST:END -->
 
 [View More Posts About My Life and Coding...](https://amyhuang-blog.com/en/posts/)
 
