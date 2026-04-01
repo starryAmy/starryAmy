@@ -41,6 +41,8 @@ Hello there, I'm Amy Huang 👋 Here are some fun facts about me:
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START --><a href="https://404-peace-not-found.ghost.io/js-how-i-fixed-reacts-annoying-load-flickers/">📌 [JS] How I Fixed React’s Annoying Load Flickers</a> - <i>Sun Apr 27 2025 12:00 AM</i><br/><a href="https://404-peace-not-found.ghost.io/js-why-my-react-component-is-re-rendering-forever/">📌 [JS] Why My React Component Is Re-Rendering Forever</a> - <i>Sat Apr 26 2025 12:00 AM</i><br/><a href="https://404-peace-not-found.ghost.io/js-update-state-based-on-old-state-in-react/">📌 [JS] Update State Based on Old State in React</a> - <i>Fri Apr 25 2025 12:00 AM</i><br/><a href="https://404-peace-not-found.ghost.io/js-dynamically-set-properties-in-object/">📌 [JS] Dynamically Set Properties in Object</a> - <i>Wed Apr 23 2025 4:00 PM</i><br/><a href="https://404-peace-not-found.ghost.io/mind-checkins-what-ive-learned-rebuilding-a-react-game/">📌 [Mind-Checkins] What I’ve Learned Rebuilding a React Game</a> - <i>Wed Apr 23 2025 2:15 PM</i><br/><!-- BLOG-POST-LIST:END --><br/>
-[View More Posts About My Life and Coding...](https://404-peace-not-found.ghost.io/)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[View More Posts About My Life and Coding...](https://amyhuang-blog.com/en/posts/)
 
